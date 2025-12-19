@@ -14,7 +14,8 @@ Project Layout
 frontend – Contains the ReactJS code for the user interface.
 backend – Includes the Node.js server and API logic.
 
-🚀 How to Run:
+#🚀 How to Run:
+
 1)Clone the repository:
 git clone https://github.com/rifaro7/cse302.git
 cd cse302
@@ -24,8 +25,11 @@ npm install
 
 cd backend
 npm install
+
 3)Start MySQL using XAMPP before running the backend server.
+
 4)Launch the applications:
+
 # Start frontend
 cd frontend
 npm run dev
@@ -33,6 +37,7 @@ npm run dev
 # Start backend
 cd backend
 npm run dev
+
 5)Open a web browser and visit the frontend application.
 typically available at  http://localhost:5173/
 
