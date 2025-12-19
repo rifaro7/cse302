@@ -17,9 +17,13 @@ backend – Includes the Node.js server and API logic.
 
 # 🚀 How to Run the Project
 
-1.Clone the repository:
+### 1.Clone the repository
+
+```bash
 git clone https://github.com/rifaro7/cse302.git
 cd cse302
+```
+
 
 2.Install dependencies:
 
@@ -50,10 +54,12 @@ npm run dev
 5.Open a web browser and visit the frontend application.
 typically available at  http://localhost:5173/
 
+
 # 📝Notes
 
 Make sure MySQL is running before starting the backend server.
 Any configuration for database connection (host, username, password) goes in the backend/db.js file.
+
 
 # Author:
 Rifa Tasnim Roza 
