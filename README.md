@@ -14,31 +14,38 @@ Git
 frontend – Contains the ReactJS code for the user interface.
 backend – Includes the Node.js server and API logic.
 
-# 🚀 How to Run:
+# 🚀 How to Run the Project
 
 1)Clone the repository:
 git clone https://github.com/rifaro7/cse302.git
 cd cse302
 
-2)cd frontend
+2)Install dependencies:
+
+```bash
+cd frontend
 npm install
 
-cd backend
+cd ../backend
 npm install
+```
 
 3)Start MySQL using XAMPP before running the backend server.
 
 # 4)Launch the applications:
 
-Start frontend
+### Run the project
 
+```bash
+# Start the frontend
 cd frontend
 npm run dev
 
-Start backend
-
+# Start the backend
 cd backend
 npm run dev
+```
+
 
 5)Open a web browser and visit the frontend application.
 typically available at  
